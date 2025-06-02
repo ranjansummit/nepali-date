@@ -18,10 +18,10 @@
     "bs2ad": "./cjs/scripts/bs2ad.js"
   },
   "repository": {
-    "url": "https://github.com/ranjansummit/nepali-date.git",
+    "url": "https://github.com/sharingapples/nepali-date.git",
     "type": "git"
   },
-  "author": "Ranjan Dhungana",
+  "author": "Ranjan Shrestha",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
